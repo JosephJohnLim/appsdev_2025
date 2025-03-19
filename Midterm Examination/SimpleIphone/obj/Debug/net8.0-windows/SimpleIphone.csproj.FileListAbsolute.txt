@@ -1,0 +1,16 @@
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\bin\Debug\net8.0-windows\SimpleIphone.exe
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\bin\Debug\net8.0-windows\SimpleIphone.deps.json
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\bin\Debug\net8.0-windows\SimpleIphone.runtimeconfig.json
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\bin\Debug\net8.0-windows\SimpleIphone.dll
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\bin\Debug\net8.0-windows\SimpleIphone.pdb
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.Form1.resources
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.csproj.GenerateResource.cache
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.AssemblyInfoInputs.cache
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.AssemblyInfo.cs
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.csproj.CoreCompileInputs.cache
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.dll
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\refint\SimpleIphone.dll
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.pdb
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\SimpleIphone.genruntimeconfig.cache
+C:\Users\MM346\source\repos\SimpleIphone\SimpleIphone\obj\Debug\net8.0-windows\ref\SimpleIphone.dll
